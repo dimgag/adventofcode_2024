@@ -1,4 +1,5 @@
-import math
+import numpy as np
+
 
 def read_input(input_file_dir):
     with open(input_file_dir, 'r') as file:
